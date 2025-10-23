@@ -1,4 +1,4 @@
-# Gender-Based-Analysis
+# Gender-Based-Analysis Task-2/Cognifyz Technologies / internship
 Gender - Based Analysis (investments) using Power Bi
 **Overview and Purpose**
 This repository contains the interactive data model and visualizations for the Gender Analysis Project. The core objective is to leverage robust data analysis and visualization techniques to understand, assess, and benchmark gender distribution, representation, and equity across a specific domain (e.g., organizational structure, customer demographics, or academic performance).
